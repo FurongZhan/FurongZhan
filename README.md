@@ -1,4 +1,5 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FurongZhan&data=followers,repositories,stars,commits)]()
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FurongZhan&data=followers,repositories,stars,commits)
+
 ## Hi there 👋 Have a good day! 🔆
 
 ## I am Furong (Dylan).
