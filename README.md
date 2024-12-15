@@ -1,5 +1,7 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FurongZhan&data=followers,repositories,stars,commits)]()
 ## Hi there 👋
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,python,cuda,markdown)](https://github.com/Jurredr/github-widgetbox)
 <!--
 **FurongZhan/FurongZhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
