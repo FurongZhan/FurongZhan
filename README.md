@@ -4,7 +4,7 @@
 ## I am Furong (Dylan).
 
 ![FurongZhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurongZhan)
-![FurongZhan's GitHub stats](https://github-readme-stats-FurongZhan.vercel.app/api?username=FurongZhan&show_icons=true) [![Top Langs](https://github-readme-stats-FurongZhan.vercel.app/api/top-langs/?username=FurongZhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurongZhan)
 
 
 - 🌱 I’m currently learning Python and more ...
@@ -12,7 +12,12 @@
 - 📫 How to reach me: zhan.furong@qq.com
 - 😄 Pronouns: **He / Him**
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,python,cuda,markdown)](https://github.com/Jurredr/github-widgetbox)
+[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,python,html,css,markdown,bash)]
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
 <!--
 **FurongZhan/FurongZhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
