@@ -1,9 +1,15 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FurongZhan&data=followers,repositories,stars,commits)]()
 ## Hi there 👋 Have a good day! 🔆
 
-## I am Furong. 我是馥榕。
+## I am Furong (Dylan).
 
 ![FurongZhan's GitHub stats](https://github-readme-stats-FurongZhan.vercel.app/api?username=FurongZhan&show_icons=true) [![Top Langs](https://github-readme-stats-FurongZhan.vercel.app/api/top-langs/?username=FurongZhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🌱 I’m currently learning Python and more ...
+- 👯 I’m looking to collaborate with my friends: [dadaWilliam](https://github.com/dadaWilliam)
+- 📫 How to reach me: zhan.furong@qq.com
+- 😄 Pronouns: He / Him
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,python,cuda,markdown)](https://github.com/Jurredr/github-widgetbox)
 <!--
