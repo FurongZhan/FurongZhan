@@ -1,5 +1,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FurongZhan&data=followers,repositories,stars,commits)]()
-## Hi there 👋
+## Hi there 👋 Have a good day! 🔆
+
+## I am Furong. 我是馥榕。
+
+![FurongZhan's GitHub stats](https://github-readme-stats-FurongZhan.vercel.app/api?username=FurongZhan&show_icons=true) [![Top Langs](https://github-readme-stats-FurongZhan.vercel.app/api/top-langs/?username=FurongZhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,java,python,cuda,markdown)](https://github.com/Jurredr/github-widgetbox)
 <!--
