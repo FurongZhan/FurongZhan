@@ -25,7 +25,7 @@
 </p>
 <p align="center">Made with 💕 in China 🥰😋😙🤩</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️Stay awesome!⚡️</h1>
 
 <p align="center">
         <img src="./asset/Bottom.svg" alt="Github Stats" />
